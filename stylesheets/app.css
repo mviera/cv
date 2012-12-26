@@ -1,0 +1,120 @@
+/* Artfully masterminded by ZURB  */
+
+h1 {
+	margin-bottom: 3px;
+}
+
+article header hr {
+	padding: 0;
+	margin-top: -14px;
+}
+
+hr {
+	padding: 0;
+	margin: 5px;
+}
+
+img {
+	margin: 0;
+	float: right;
+}
+
+ul ~ ul {
+	margin-top: -15px;
+	padding-top: 0;
+}
+
+.info div {
+	margin: 0;
+	padding: 0;
+	text-align: right;
+}
+
+article .subheader.right {
+	margin:0;
+	padding:0;
+}
+
+#education p {
+	margin: 0;
+}
+
+#education li {
+	list-style-type: none;
+	padding: 4px;
+}
+
+.bubble {
+	color: gray;
+	background-color: whitesmoke;
+	border-radius: 10%;
+	-webkit-border-radius: 8%;
+	-moz-border-radius: 10%;
+	-o-border-radius: 10%;
+	-ms-border-radius: 10%;
+	padding: 1px;	text-align: center;
+}
+
+ /**
+#education li:nth-child(odd) {
+	background-color: whitesmoke;
+}
+*/
+
+.row.less-margin-top {
+	margin-top: -30px;
+}
+
+.row {
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+
+#education li:not(:last-child),
+#experience > .company:not(:last-child) section:first-child {
+	border-bottom: 1px solid whitesmoke;
+}
+
+#experience {
+	margin-top: -18px;
+}
+
+#experience .company {
+	margin-top: 5px;
+}
+
+.block-grid span {
+	color: white;
+	padding: 5px;
+	background-color: #2BA6CB;
+	border-radius: 10%;
+	-webkit-border-radius: 10%;
+	-moz-border-radius: 10%;
+	-o-border-radius: 10%;
+	-ms-border-radius: 10%;
+}
+
+#skills {
+	margin-top: -10px;
+}
+
+.specific-skills {
+	margin-top: -15px;
+}
+
+.color.whitesmoke {
+	background-color: whitesmoke;
+	color: #222;
+}
+
+.font.small {
+	font-size: 12px;
+}
+
+#another-info {
+	margin-top: -20px;
+}
+
+#photo {
+	margin: 0 auto;
+}
