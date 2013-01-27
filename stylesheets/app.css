@@ -95,7 +95,7 @@ article .subheader.right {
 }
 
 #skills {
-	margin-top: -10px;
+	margin-top: -20px;
 }
 
 .specific-skills {
@@ -117,4 +117,12 @@ article .subheader.right {
 
 #photo {
 	margin: 0 auto;
+}
+
+p.small {
+	font-size: 90%;
+}
+
+hgroup h2 {
+	margin-top: 0;
 }
